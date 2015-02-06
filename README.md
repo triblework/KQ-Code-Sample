@@ -4,4 +4,4 @@ A Code sample of a property selector Page. The page was created by 1) Creating a
 
 The files in the repo are just for reference and don't actually work since they're outside of the WordPress install. The project is currently in development.
 
-[Screenshot](https://github.com/triblework/static-framework/blob/master/screenshot.jpg).
+[Screenshot](https://github.com/triblework/KQ-Code-Sample/blob/master/screenshot.jpg).
